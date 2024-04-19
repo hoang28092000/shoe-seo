@@ -16,6 +16,9 @@
     font-size: 16px;
     color: #fff;
 }
+.top-header .right-top-header .icon-top-header:hover{
+    opacity: 0.7;
+}
 .top-header .content-header .txt-top-header{
     font-size: 14px;
     font-weight: 600;
